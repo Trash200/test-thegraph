@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "EthStratContract": {
+      "address": "0xF59f0a99d36978732E0187930f1649bA293B1160",
+      "startBlock": 18132957
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "thegraph",
+  "version": "1.0.0",
+  "scripts": {
+    "codegen": "turbo run codegen",
+    "build": "turbo run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mustache": "4.2.0",
+    "turbo": "1.13.0"
+  }
+}
